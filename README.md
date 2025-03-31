@@ -85,6 +85,5 @@ Your `.env` file should contain the following:
 ```sh
 OPENAI_API_KEY="your_api_key_here"
 ```
->>>>>>> 4ca13cd (changes in readme file)
 
 
