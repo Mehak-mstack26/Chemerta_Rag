@@ -1,0 +1,40 @@
+{
+  "reactionName": "[1,5]-sigmatropic rearrangement",
+  "description": "A [1,5] sigma tropic shift involves the shift of 1 substituent (hydride, alkyl, or aryl) down 5 atoms of a π system. Source: Wikipedia",
+  "reactionCount": "1",
+  "allIncludedReactions": [
+    {
+      "reactionID": "1823562\nVerified\n",
+      "reactionSource": "10.1021/acs.orglett.3c01990 doi 1 ",
+      "reactionLocation": " ",
+      "reactionTemperature": "",
+      "reactionTimeMin": "86",
+      "reactionYieldInPercentage": "\n                                1.2\n\n                            ",
+      "SMILE": "C(C1=CC=CC=C1)=NC1=CC=CC=C1.C1(=CC=CC=C1)C(\\C=C\\C(=O)C1=CC=CC=C1)=O>C(C)(=O)OCC>O(C1=CC=CC=C1)\\C(=C/C1C(N(C1C1=CC=CC=C1)C1=CC=CC=C1)=O)\\C1=CC=CC=C1",
+      "reactant": {
+        "value": "N-benzylidene aniline",
+        "weight": "1.2",
+        "moleculeProperties": "/data/molecule/profile/1808e165342771a421c95f86417adce7",
+        "allRelatedReactions": "/data/reaction/molecule/1808e165342771a421c95f86417adce7/start/0"
+      },
+      "reactant 2": {
+        "value": "(E)-1,4-diphenylbut-2-ene-1,4-dione",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/bb9cbf02df88d5fe6b6c6ea277941780",
+        "allRelatedReactions": "/data/reaction/molecule/bb9cbf02df88d5fe6b6c6ea277941780/start/0"
+      },
+      "solvent": {
+        "value": "ethyl acetate",
+        "weight": "303",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "3-((Z)-2-phenoxy-2-phenylvinyl)-1,4-diphenylazetidin-2-one",
+        "weight": "0.9",
+        "moleculeProperties": "/data/molecule/profile/57317f6bb3227d9f01399beca85dfb49",
+        "allRelatedReactions": "/data/reaction/molecule/57317f6bb3227d9f01399beca85dfb49/start/0"
+      }
+    }
+  ]
+}

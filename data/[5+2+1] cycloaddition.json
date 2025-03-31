@@ -1,0 +1,46 @@
+{
+  "reactionName": "[5+2+1] cycloaddition",
+  "description": "A cycloaddition in which one participant contributes five electrons and the other participant contributes two electrons to the transformation of reactants to products.",
+  "reactionCount": "1",
+  "allIncludedReactions": [
+    {
+      "reactionID": "1785819\nVerified\n",
+      "reactionSource": "10.1021/acs.orglett.1c04383 doi 1 ",
+      "reactionLocation": " 25 => 80  ",
+      "reactionTemperature": "2880",
+      "reactionTimeMin": "66",
+      "reactionYieldInPercentage": "\n                                1.0\n\n                            ",
+      "SMILE": "[C]=O.C=CCC(C/C=C/C1(C)CC1)(C(=O)OC)C(=O)OC>O1CCOCC1.C(=O)(Cl)Cl.[Rh]>COC(=O)C1(C(=O)OC)C[C@H]2/C=C(/C)CCC(=O)C[C@H]2C1",
+      "reactant": {
+        "value": "FLEOHGJJBVGPQR-SOFGYWHQSA-N",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/7afcadfbf69084beb9f1009958b83124",
+        "allRelatedReactions": "/data/reaction/molecule/7afcadfbf69084beb9f1009958b83124/start/0"
+      },
+      "solvent": {
+        "value": "dioxane",
+        "weight": "234",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "C1 synthon": {
+        "value": "carbon monoxide",
+        "weight": "0.0004",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "catalyst": {
+        "value": "Di-μ-chloro-tetracarbonyldirhodium(I)",
+        "weight": "0.05",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "GLNIWSHLTORHFL-LIPIYFLUSA-N",
+        "weight": "0.7",
+        "moleculeProperties": "/data/molecule/profile/5de7e97d160dccce6990d2d3bcd10c86",
+        "allRelatedReactions": "/data/reaction/molecule/5de7e97d160dccce6990d2d3bcd10c86/start/0"
+      }
+    }
+  ]
+}

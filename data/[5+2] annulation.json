@@ -1,0 +1,52 @@
+{
+  "reactionName": "[5+2] annulation",
+  "description": "",
+  "reactionCount": "1",
+  "allIncludedReactions": [
+    {
+      "reactionID": "2295309\nVerified\n",
+      "reactionSource": "10.1021/acs.orglett.4c00940 doi 1 ",
+      "reactionLocation": " 90  ",
+      "reactionTemperature": "1440",
+      "reactionTimeMin": "71",
+      "reactionYieldInPercentage": "\n                                1.0\n\n                            ",
+      "SMILE": "C1(=CC=CC=C1)C#C.C1(=CC=CC=C1)C#CC1=C(C=CC=C1)CC#N>CC(C)(C)[O-].[K+].C1CCCO1.C[Si](C)(C)[N-][Si](C)(C)C.[Li+]>C1(=CC=CC=C1)C=1CC2=C(C(=CC1C1=CC=CC=C1)C#N)C=CC=C2",
+      "reactant": {
+        "value": "2-(2-(phenylethynyl)phenyl)acetonitrile",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/7e41d6b528399e14645a89cba7065947",
+        "allRelatedReactions": "/data/reaction/molecule/7e41d6b528399e14645a89cba7065947/start/0"
+      },
+      "solvent": {
+        "value": "tetrahydrofuran",
+        "weight": "6173",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "non-nucleophilic base": {
+        "value": "potassium tert-butoxide",
+        "weight": "12.5",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "base": {
+        "value": "lithium bis(trimethylsilyl)amidein  tetrahydrofuran",
+        "weight": "25.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "building block": {
+        "value": "phenylacetylene",
+        "weight": "125",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "6,7-Diphenyl-5H-benzo[7]annulene-9-carbonitrile",
+        "weight": "35.5",
+        "moleculeProperties": "/data/molecule/profile/30edbbd6edde0b24b857cca761ec04d6",
+        "allRelatedReactions": "/data/reaction/molecule/30edbbd6edde0b24b857cca761ec04d6/start/0"
+      }
+    }
+  ]
+}

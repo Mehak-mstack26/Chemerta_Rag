@@ -1,0 +1,51 @@
+{
+  "reactionName": "[3+2] cycloaddition",
+  "description": "A cycloaddition in which one participant contributes three electrons and the other participant contributes two electrons to the transformation of reactants to products.",
+  "reactionCount": "1",
+  "allIncludedReactions": [
+    {
+      "reactionID": "1847719\nVerified\n",
+      "reactionSource": "10.1021/acs.joc.3c01427 doi 1 ",
+      "reactionLocation": " 25  ",
+      "reactionTemperature": "",
+      "reactionTimeMin": "75",
+      "reactionYieldInPercentage": "\n                                1.3\n\n                            ",
+      "SMILE": "C1(=CC=CC=C1)N=O.C1(=CC=CC=C1)N\\N=C(\\C1=CC=CC=C1)/Cl>O.C1CCCO1.CCN(CC)CC>C1(=CC=CC=C1)/[N+](=N/C(=N\\C1=CC=CC=C1)/C1=CC=CC=C1)/[O-]",
+      "reactant": {
+        "value": "nitrosobenzene",
+        "weight": "1.3",
+        "moleculeProperties": "/data/molecule/profile/4a161fcccf23314ef9e20bb521fd6bcd",
+        "allRelatedReactions": "/data/reaction/molecule/4a161fcccf23314ef9e20bb521fd6bcd/start/0"
+      },
+      "reactant 2": {
+        "value": "(Z)-N-phenylbenzohydrazonoyl chloride",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/dd25f5006da285c35288f2ecd4835b2f",
+        "allRelatedReactions": "/data/reaction/molecule/dd25f5006da285c35288f2ecd4835b2f/start/0"
+      },
+      "solvent": {
+        "value": "water",
+        "weight": "553",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "solvent 2": {
+        "value": "tetrahydrofuran",
+        "weight": "123",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "base": {
+        "value": "triethylamine",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "(Z)-1-phenyl-2-((Z)-phenyl(phenylimino)methyl)diazene 1-oxide",
+        "weight": "0.7",
+        "moleculeProperties": "/data/molecule/profile/177bc2ee809ec5e8848b408fc22ccdb3",
+        "allRelatedReactions": "/data/reaction/molecule/177bc2ee809ec5e8848b408fc22ccdb3/start/0"
+      }
+    }
+  ]
+}

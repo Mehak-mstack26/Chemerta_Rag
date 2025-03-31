@@ -1,0 +1,46 @@
+{
+  "reactionName": "[2+2+1] cycloaddition",
+  "description": "A cycloaddition in which two participants contribute two electrons and the other participant contributes one electron to the transformation of reactants to products.",
+  "reactionCount": "1",
+  "allIncludedReactions": [
+    {
+      "reactionID": "1786243\nVerified\n",
+      "reactionSource": "10.1021/acs.orglett.2c01925 doi 1 ",
+      "reactionLocation": " 130  ",
+      "reactionTemperature": "720",
+      "reactionTimeMin": "71",
+      "reactionYieldInPercentage": "\n                                4.0\n\n                            ",
+      "SMILE": "C1(=CC=CC=C1)C#CC1=CC=CC=C1.C(C)(=O)NOC(=O)C1=CC=CC=C1>O1CCOCC1.Cl[Pd]Cl>C1(=CC=CC=C1)C=1N(C(=C(C1C1=CC=CC=C1)C1=CC=CC=C1)C1=CC=CC=C1)C(C)=O",
+      "reactant": {
+        "value": "diphenylacetylene",
+        "weight": "4.0",
+        "moleculeProperties": "/data/molecule/profile/1d1f754e822277303b01dae09bd6b0db",
+        "allRelatedReactions": "/data/reaction/molecule/1d1f754e822277303b01dae09bd6b0db/start/0"
+      },
+      "reactant 2": {
+        "value": "N-acetyl-O-(phenylcarbonyl)-hydroxylamine",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/5776ee0177e582d38dc50f50890f637b",
+        "allRelatedReactions": "/data/reaction/molecule/5776ee0177e582d38dc50f50890f637b/start/0"
+      },
+      "solvent": {
+        "value": "dioxane",
+        "weight": "58.6",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "reagent": {
+        "value": "Palladium(II) chloride",
+        "weight": "0.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "1-(2,3,4,5-tetraphenyl-1H-pyrrol-1-yl)ethan-1-one",
+        "weight": "0.7",
+        "moleculeProperties": "/data/molecule/profile/2ac466d3eef98a9b4267b610c12d48bd",
+        "allRelatedReactions": "/data/reaction/molecule/2ac466d3eef98a9b4267b610c12d48bd/start/0"
+      }
+    }
+  ]
+}

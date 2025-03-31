@@ -1,0 +1,52 @@
+{
+  "reactionName": "[4+2] cycloaddition",
+  "description": "A cycloaddition in which one participant contributes four electrons and the other participant contributes two electrons to the transformation of reactants to products.",
+  "reactionCount": "1",
+  "allIncludedReactions": [
+    {
+      "reactionID": "2496606\nVerified\n",
+      "reactionSource": "10.1021/jacs.4c09068 doi 1 ",
+      "reactionLocation": " [gpt-4o-mini] ",
+      "reactionTemperature": " 150  ",
+      "reactionTimeMin": "1440",
+      "reactionYieldInPercentage": "70",
+      "SMILE": "ClC=1C=C(C=C2CC(C12)=O)OC.C(C1=CC=CC=C1)OC1=C2CC(C(C(C2=C(C(=C1Cl)OCC1=CC=CC=C1)Cl)(C)C)=O)O>C1(=CC(=CC=C1)C)C.C=1C=CC(=CC1)P(CCCP(C=2C=CC=CC2)C=3C=CC=CC3)C=4C=CC=CC4.[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Ru].[Ru].[Ru]>C(C1=CC=CC=C1)OC1=C2C[C@@]3(C(C=4C(=CC(=CC4C[C@@]3(C(C2=C(C(=C1Cl)OCC1=CC=CC=C1)Cl)(C)C)O)OC)Cl)=O)O",
+      "reactant": {
+        "value": "5-chloro-3-methoxybicyclo[4.2.0]octa-1,3,5-trien-7-one",
+        "weight": "1.3",
+        "moleculeProperties": "/data/molecule/profile/7e3f65efca41c591e4e72bcce90cc450",
+        "allRelatedReactions": "/data/reaction/molecule/7e3f65efca41c591e4e72bcce90cc450/start/0"
+      },
+      "reactant 2": {
+        "value": "5,7-bis(benzyloxy)-6,8-dichloro-3-hydroxy-1,1-dimethyl-3,4-dihydronaphthalen-2(1H)-one",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/a87ba95f00470b044c623ad9cb6e8d95",
+        "allRelatedReactions": "/data/reaction/molecule/a87ba95f00470b044c623ad9cb6e8d95/start/0"
+      },
+      "solvent": {
+        "value": "m-xylene",
+        "weight": "0.05",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "ligand": {
+        "value": "1,3-Bis(diphenylphosphino)propane",
+        "weight": "0.10",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "catalyst": {
+        "value": "Triruthenium dodecacarbonyl",
+        "weight": "0.03",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "(5aR,11aS)-7,9-bis(benzyloxy)-4,8,10-trichloro-5a,11a-dihydroxy-2-methoxy-11,11-dimethyl-6,11,11a,12-tetrahydrotetracen-5(5aH)-one",
+        "weight": "0.7",
+        "moleculeProperties": "/data/molecule/profile/d4640b28511d9ee1f870e53502296ccf",
+        "allRelatedReactions": "/data/reaction/molecule/d4640b28511d9ee1f870e53502296ccf/start/0"
+      }
+    }
+  ]
+}

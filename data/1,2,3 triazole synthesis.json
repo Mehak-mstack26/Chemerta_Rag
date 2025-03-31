@@ -1,0 +1,1196 @@
+{
+  "reactionName": "1,2,3 triazole synthesis",
+  "description": "Any reaction forming an 1,2,3-triazole ring system from a carbonyl containing compound and an amine.",
+  "reactionCount": "28",
+  "allIncludedReactions": [
+    {
+      "reactionID": "506490\nVerified\n",
+      "reactionSource": "US20080242694A1 ",
+      "reactionLocation": "I20081002b.xml ",
+      "reactionTemperature": " 0 => 20  ",
+      "reactionTimeMin": "1140",
+      "reactionYieldInPercentage": "91",
+      "SMILE": "C(C)(C)(C)OC(=O)N[C@H](CO)CC1=CC=CC=C1.N(=[N+]=[N-])C[C@H](CC1=CC=CC=C1)NC(=O)OC(C)(C)C>N(C)(C)C=O.ClCCl.CCN(CC)CC.[N-]=[N+]=[N-].[Na+].S(=O)(=O)(C)Cl>C1=NC=CC2=CC(=CC=C12)C=1N=NNC1C[C@H](CC1=CC=CC=C1)N",
+      "reactant": {
+        "value": "(S)-(−)-2-(tertbutoxycarbonylamino)-3-phenyl-1-propanol",
+        "moleculeProperties": "/data/molecule/profile/c3dbaecd5d6e1b1b9f32cfb8551e5619",
+        "allRelatedReactions": "/data/reaction/molecule/c3dbaecd5d6e1b1b9f32cfb8551e5619/start/0"
+      },
+      "reactant 2": {
+        "value": "N-[(1S)-2-azido-1-benzylethyl](tert-butoxy) carboxamide",
+        "moleculeProperties": "/data/molecule/profile/46a245d5f16ea572b780f5081bb454d4",
+        "allRelatedReactions": "/data/reaction/molecule/46a245d5f16ea572b780f5081bb454d4/start/0"
+      },
+      "solvent": {
+        "value": "dimethylformamide",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "solvent 2": {
+        "value": "dichloromethane",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "base": {
+        "value": "triethylamine",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "reagent": {
+        "value": "methanesulfonyl chloride",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "reagent 2": {
+        "value": "sodium azide",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "(2S)-1-(4-(6-ISOQUINOLYL)(1,2,3-TRIAZOLYL))-3-PHENYLPROP-2-YLAMINE",
+        "moleculeProperties": "/data/molecule/profile/a0c79e8d715a6a3910f530e0032e266c",
+        "allRelatedReactions": "/data/reaction/molecule/a0c79e8d715a6a3910f530e0032e266c/start/0"
+      }
+    },
+    {
+      "reactionID": "621890\nVerified\n",
+      "reactionSource": "US20090221583A1 ",
+      "reactionLocation": "I20090903.xml ",
+      "reactionTemperature": " 20  ",
+      "reactionTimeMin": "840",
+      "reactionYieldInPercentage": "87",
+      "SMILE": "NC1=CC=CC=C1.C(C)OC(C(C=O)=[N+]=[N-])=O>CCO[H]>C(C)OC(=O)C=1N=NN(C1)C1=CC=CC=C1",
+      "reactant": {
+        "value": "2-diazo-3-oxo-propionic acid ethyl ester",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/071b232944a0572f29c883dd21da531f",
+        "allRelatedReactions": "/data/reaction/molecule/071b232944a0572f29c883dd21da531f/start/0"
+      },
+      "solvent": {
+        "value": "ethanol",
+        "weight": "6.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "building block": {
+        "value": "Aniline",
+        "weight": "1.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "1-phenyl-1H-[1,2,3]triazole-4-carboxylic acid ethyl ester",
+        "weight": "0.9",
+        "moleculeProperties": "/data/molecule/profile/ea801a5a52aedb9b89706a17a6fc799c",
+        "allRelatedReactions": "/data/reaction/molecule/ea801a5a52aedb9b89706a17a6fc799c/start/0"
+      }
+    },
+    {
+      "reactionID": "672382\nVerified\n",
+      "reactionSource": "US20100004128A1 ",
+      "reactionLocation": "I20100107.xml ",
+      "reactionTemperature": " reflux  ",
+      "reactionTimeMin": "2880",
+      "reactionYieldInPercentage": "81",
+      "SMILE": "CNN.C(C)OC(C(C(C)=O)=[N+]=[N-])=O>C1CCCO1.C(C)(=O)O>C(C)OC(=O)C=1N=NN(C1C)C",
+      "reactant": {
+        "value": "2-Diazo-3-oxo-butyric acid ethyl ester",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/f5dc5d750975ff50e1dbf0e925cb7f73",
+        "allRelatedReactions": "/data/reaction/molecule/f5dc5d750975ff50e1dbf0e925cb7f73/start/0"
+      },
+      "solvent": {
+        "value": "tetrahydrofuran",
+        "weight": "19.3",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "acid": {
+        "value": "acetic acid",
+        "weight": "3.3",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "building block": {
+        "value": "Methyl hydrazine",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "1,5-dimethyl-1H-[1,2,3]triazole-4-carboxylic acid ethyl ester",
+        "weight": "0.8",
+        "moleculeProperties": "/data/molecule/profile/3949ebb729677a047e2eab3596525aa9",
+        "allRelatedReactions": "/data/reaction/molecule/3949ebb729677a047e2eab3596525aa9/start/0"
+      }
+    },
+    {
+      "reactionID": "672383\nVerified\n",
+      "reactionSource": "US20100004128A1 ",
+      "reactionLocation": "I20100107.xml ",
+      "reactionTemperature": " reflux  ",
+      "reactionTimeMin": "",
+      "reactionYieldInPercentage": "69",
+      "SMILE": "CN.C(C)OC(C(C(=O)C1CC1)=[N+]=[N-])=O>ClCCCl.[Ti](Cl)(Cl)(Cl)Cl>C(C)OC(=O)C=1N=NN(C1C1CC1)C",
+      "reactant": {
+        "value": "3-Cyclopropyl-2-diazo-3-oxo-propionic acid ethyl ester",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/5ff0413d29bea230deab4c2af4d16d96",
+        "allRelatedReactions": "/data/reaction/molecule/5ff0413d29bea230deab4c2af4d16d96/start/0"
+      },
+      "solvent": {
+        "value": "1,2-dichloroethane",
+        "weight": "34.6",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "C1 synthon": {
+        "value": "methylamine",
+        "weight": "2.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "Lewis acid": {
+        "value": "titanium tetrachloride",
+        "weight": "20.5",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "5-cyclopropyl-1-methyl-1H-[1,2,3]triazole-4-carboxylic acid ethyl ester",
+        "weight": "0.7",
+        "moleculeProperties": "/data/molecule/profile/7e2c9e9ec10c05cdfadf3a3ad592bfa7",
+        "allRelatedReactions": "/data/reaction/molecule/7e2c9e9ec10c05cdfadf3a3ad592bfa7/start/0"
+      }
+    },
+    {
+      "reactionID": "741306\nVerified\n",
+      "reactionSource": "US20100160323A1 ",
+      "reactionLocation": "I20100624b.xml ",
+      "reactionTemperature": " 20  ",
+      "reactionTimeMin": "840",
+      "reactionYieldInPercentage": "87",
+      "SMILE": "NC1=CC=CC=C1.C(C)OC(C(C=O)=[N+]=[N-])=O>CCO[H].C(C)(=O)O>C(C)OC(=O)C=1N=NN(C1)C1=CC=CC=C1",
+      "reactant": {
+        "value": "2-diazo-3-oxo-propionic acid ethyl ester",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/071b232944a0572f29c883dd21da531f",
+        "allRelatedReactions": "/data/reaction/molecule/071b232944a0572f29c883dd21da531f/start/0"
+      },
+      "solvent": {
+        "value": "ethanol",
+        "weight": "6.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "acid": {
+        "value": "acetic acid",
+        "weight": "2.5",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "building block": {
+        "value": "Aniline",
+        "weight": "1.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "1-phenyl-1H-[1,2,3]triazole-4-carboxylic acid ethyl ester",
+        "weight": "0.9",
+        "moleculeProperties": "/data/molecule/profile/ea801a5a52aedb9b89706a17a6fc799c",
+        "allRelatedReactions": "/data/reaction/molecule/ea801a5a52aedb9b89706a17a6fc799c/start/0"
+      }
+    },
+    {
+      "reactionID": "747252\nVerified\n",
+      "reactionSource": "US20100173914A1 ",
+      "reactionLocation": "I20100708.xml ",
+      "reactionTemperature": " 60 => 20  ",
+      "reactionTimeMin": "210",
+      "reactionYieldInPercentage": "101",
+      "SMILE": "COC=O.NC1=NC(=C(C(=N1)Cl)NC=O)NCC1=CC(=C(C=C1)[N+](=O)[O-])C>S(O)(O)(=O)=O.CO[H].N(=O)[O-].[Na+]>ClC=1C2=C(N=C(N1)N)N(N=N2)CC2=CC(=C(C=C2)[N+](=O)[O-])C",
+      "reactant": {
+        "value": "methylformate",
+        "moleculeProperties": "/data/molecule/profile/75c4883e39acb8572fcb701e10b722da",
+        "allRelatedReactions": "/data/reaction/molecule/75c4883e39acb8572fcb701e10b722da/start/0"
+      },
+      "reactant 2": {
+        "value": "N-[2-amino-4-chloro-6-(3-methyl-4-nitro-benzylamino)-pyrimidin-5-yl]-formamide",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/0b8686e42899977385c41e6e69719c77",
+        "allRelatedReactions": "/data/reaction/molecule/0b8686e42899977385c41e6e69719c77/start/0"
+      },
+      "solvent": {
+        "value": "methanol",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "acid": {
+        "value": "sulfuric acid",
+        "weight": "3.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "reagent": {
+        "value": "Sodium nitrite",
+        "weight": "4.4",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "7-chloro-3-(3-methyl-4-nitrobenzyl)-3H-[1,2,3]triazolo[4,5-d]pyrimidin-5-amine",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/d4fccb9d931311aee8792c979feb6ead",
+        "allRelatedReactions": "/data/reaction/molecule/d4fccb9d931311aee8792c979feb6ead/start/0"
+      }
+    },
+    {
+      "reactionID": "805931\nVerified\n",
+      "reactionSource": "US20100305092A1 ",
+      "reactionLocation": "I20101202.xml ",
+      "reactionTemperature": " ",
+      "reactionTimeMin": "",
+      "reactionYieldInPercentage": "not reported",
+      "SMILE": "COC(C1=CC(=CC=C1)C(NO)=N)=O.C1(=CC=CC=C1)C1=C(N=NN1C1=C(C=CC=C1)F)C(=O)O>>FC1=C(C=CC=C1)N1N=NC(=C1C1=CC=CC=C1)C1=NC(=NO1)C=1C=C(C(=O)OC)C=CC1",
+      "reactant": {
+        "value": "3-(N-Hydroxycarbamimidoyl)-benzoic acid methyl ester",
+        "weight": "1.2",
+        "moleculeProperties": "/data/molecule/profile/3391216604279675a7619d0196855dc8",
+        "allRelatedReactions": "/data/reaction/molecule/3391216604279675a7619d0196855dc8/start/0"
+      },
+      "reactant 2": {
+        "value": "5-phenyl-1-(2-fluorophenyl)-1H-1,2,3-triazole-4-carboxylic acid",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/49105cb73ba32ca2c02dc58613f6c792",
+        "allRelatedReactions": "/data/reaction/molecule/49105cb73ba32ca2c02dc58613f6c792/start/0"
+      },
+      "product": {
+        "value": "Methyl 3-{5-[1-(2-fluorophenyl)-5-phenyl-1H-1,2,3-triazole-4-yl]-1,2,4-oxadiazole-3-yl}benzoate",
+        "moleculeProperties": "/data/molecule/profile/6da23abe8f641d2d122ce6780c01c45a",
+        "allRelatedReactions": "/data/reaction/molecule/6da23abe8f641d2d122ce6780c01c45a/start/0"
+      }
+    },
+    {
+      "reactionID": "1311624\nVerified\n",
+      "reactionSource": "US20140323418A1 ",
+      "reactionLocation": "I20141030.xml ",
+      "reactionTemperature": " 20 => 90  ",
+      "reactionTimeMin": "840",
+      "reactionYieldInPercentage": "12",
+      "SMILE": "C(=O)C=O.BrC=1C=C(C=CC1)NN>O.c1ccncc1.C([O-])([O-])=O.[Na+].[Na+].Cl.NO>BrC=1C=C(C=CC1)N1[N+](=CC=N1)[O-]",
+      "reactant": {
+        "value": "glyoxal",
+        "moleculeProperties": "/data/molecule/profile/c2be97a0f4a39dfee086631889d1c45b",
+        "allRelatedReactions": "/data/reaction/molecule/c2be97a0f4a39dfee086631889d1c45b/start/0"
+      },
+      "reactant 2": {
+        "value": "(3-bromo-phenyl)-hydrazine",
+        "moleculeProperties": "/data/molecule/profile/8f6705647feb5d5c45cb136606ef0959",
+        "allRelatedReactions": "/data/reaction/molecule/8f6705647feb5d5c45cb136606ef0959/start/0"
+      },
+      "solvent": {
+        "value": "water",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "base": {
+        "value": "pyridine",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "base 2": {
+        "value": "sodium carbonate",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "reagent": {
+        "value": "hydroxylamine hydrochloride",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "2-(3-bromophenyl)-2H-1,2,3-triazole 1-oxide",
+        "moleculeProperties": "/data/molecule/profile/fc8b9aa369d86453bd66a936d1ccb42e",
+        "allRelatedReactions": "/data/reaction/molecule/fc8b9aa369d86453bd66a936d1ccb42e/start/0"
+      }
+    },
+    {
+      "reactionID": "1591459\nVerified\n",
+      "reactionSource": "US20150284343A1 ",
+      "reactionLocation": "I20151008.xml ",
+      "reactionTemperature": " reflux  ",
+      "reactionTimeMin": "1140",
+      "reactionYieldInPercentage": "78",
+      "SMILE": "CC(=O)/C=N/O.FC(C1=CC=C(C=C1)NN)(F)F>C(C)OCC>CC1=NN([N+](=C1)[O-])C1=CC=C(C=C1)C(F)(F)F",
+      "reactant": {
+        "value": "anti-pyruvic aldehyde 1-oxime",
+        "moleculeProperties": "/data/molecule/profile/d376951998ff78689ad1a18e93374497",
+        "allRelatedReactions": "/data/reaction/molecule/d376951998ff78689ad1a18e93374497/start/0"
+      },
+      "reactant 2": {
+        "value": "4-trifluoromethylphenylhydrazine",
+        "moleculeProperties": "/data/molecule/profile/bcf791d814676f878549aff896a5142e",
+        "allRelatedReactions": "/data/reaction/molecule/bcf791d814676f878549aff896a5142e/start/0"
+      },
+      "solvent": {
+        "value": "diethyl ether",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "4-Methyl-2-[4-(trifluoromethyl)phenyl]-2H-1,2,3-triazole 1-oxide",
+        "moleculeProperties": "/data/molecule/profile/54704170e542f4a3e53945ecb4e3aed7",
+        "allRelatedReactions": "/data/reaction/molecule/54704170e542f4a3e53945ecb4e3aed7/start/0"
+      }
+    },
+    {
+      "reactionID": "1591489\nVerified\n",
+      "reactionSource": "US20150284343A1 ",
+      "reactionLocation": "I20151008.xml ",
+      "reactionTemperature": " reflux  ",
+      "reactionTimeMin": "1084",
+      "reactionYieldInPercentage": "95",
+      "SMILE": "Cl.FC1=CC=C(C=C1)NN.CC(=O)/C=N/O>C(C)OCC>FC1=CC=C(C=C1)N1[N+](=CC(=N1)C)[O-]",
+      "reactant": {
+        "value": "4-Fluorophenylhydrazine hydrochloride",
+        "moleculeProperties": "/data/molecule/profile/7357e09ab392b04169a60b0ea13fbea7",
+        "allRelatedReactions": "/data/reaction/molecule/7357e09ab392b04169a60b0ea13fbea7/start/0"
+      },
+      "reactant 2": {
+        "value": "anti-pyruvic aldehyde 1-oxime",
+        "moleculeProperties": "/data/molecule/profile/d376951998ff78689ad1a18e93374497",
+        "allRelatedReactions": "/data/reaction/molecule/d376951998ff78689ad1a18e93374497/start/0"
+      },
+      "solvent": {
+        "value": "diethyl ether",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "2-(4-fluorophenyl)-4-methyl-2H-1,2,3-triazole 1-oxide",
+        "moleculeProperties": "/data/molecule/profile/5c052c31aac63f3350768414460068a3",
+        "allRelatedReactions": "/data/reaction/molecule/5c052c31aac63f3350768414460068a3/start/0"
+      }
+    },
+    {
+      "reactionID": "1591556\nVerified\n",
+      "reactionSource": "US20150284343A1 ",
+      "reactionLocation": "I20151008.xml ",
+      "reactionTemperature": " reflux  ",
+      "reactionTimeMin": "5040",
+      "reactionYieldInPercentage": "not reported",
+      "SMILE": "CC(=O)/C=N/O.Cl.FC1=C(C=CC(=C1)F)NN>C(C)OCC.c1ccncc1>FC1=C(C=CC(=C1)F)N1[N+](=C(C(=N1)C)C)[O-]",
+      "reactant": {
+        "value": "anti-pyruvic aldehyde 1-oxime",
+        "moleculeProperties": "/data/molecule/profile/d376951998ff78689ad1a18e93374497",
+        "allRelatedReactions": "/data/reaction/molecule/d376951998ff78689ad1a18e93374497/start/0"
+      },
+      "reactant 2": {
+        "value": "2,4-difluorophenylhydrazine hydrochloride",
+        "moleculeProperties": "/data/molecule/profile/cd054230c3e4eb5da7abca2ba7302f8b",
+        "allRelatedReactions": "/data/reaction/molecule/cd054230c3e4eb5da7abca2ba7302f8b/start/0"
+      },
+      "solvent": {
+        "value": "diethyl ether",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "base": {
+        "value": "pyridine",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "2-(2,4-difluorophenyl)-4,5-dimethyl-2H-1,2,3-triazole 1-oxide",
+        "moleculeProperties": "/data/molecule/profile/6b51af78030aa6d561f26c8aadf7a07c",
+        "allRelatedReactions": "/data/reaction/molecule/6b51af78030aa6d561f26c8aadf7a07c/start/0"
+      }
+    },
+    {
+      "reactionID": "1825464\nVerified\n",
+      "reactionSource": "US20230227427A1 ",
+      "reactionLocation": "ipa230720-2193.xml p-0310 ",
+      "reactionTemperature": " 25 => 140  ",
+      "reactionTimeMin": "15",
+      "reactionYieldInPercentage": "105",
+      "SMILE": "C(C)N.COC(C(C)=O)OC>CO[H].ClCCl.CCN(CC)CC.CC1=CC=C(C=C1)S(=O)(=O)NN>C(C)N1N=NC(=C1)C",
+      "reactant": {
+        "value": "1,1-dimethoxy-propan-2-one",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/f415b6eeb4d87f828bdd56c2d33ff984",
+        "allRelatedReactions": "/data/reaction/molecule/f415b6eeb4d87f828bdd56c2d33ff984/start/0"
+      },
+      "solvent": {
+        "value": "methanol",
+        "weight": "5.8",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "base": {
+        "value": "triethylamine",
+        "weight": "1.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "building block": {
+        "value": "ethylamine",
+        "weight": "1.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "reagent": {
+        "value": "tosyl hydrazine",
+        "weight": "1.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "quench / next": {
+        "value": "dichloromethane",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "1-ethyl-4-methyl-1H-1,2,3-triazole",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/12925b868cce6190fea4fcce36b39322",
+        "allRelatedReactions": "/data/reaction/molecule/12925b868cce6190fea4fcce36b39322/start/0"
+      }
+    },
+    {
+      "reactionID": "1825466\nVerified\n",
+      "reactionSource": "US20230227427A1 ",
+      "reactionLocation": "ipa230720-2193.xml p-0317 ",
+      "reactionTemperature": " 25 => 140  ",
+      "reactionTimeMin": "130",
+      "reactionYieldInPercentage": "not reported",
+      "SMILE": "CN.C1(CC1)C(C(OCC)OCC)=O>O.CO[H].CCN(CC)CC.CC1=CC=C(C=C1)S(=O)(=O)NN>C1(CC1)C=1N=NN(C1)C",
+      "reactant": {
+        "value": "1-cyclopropyl-2,2-diethoxy-ethanone",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/71fcbe22a6649366c8001a44bf93cd48",
+        "allRelatedReactions": "/data/reaction/molecule/71fcbe22a6649366c8001a44bf93cd48/start/0"
+      },
+      "solvent": {
+        "value": "methanol",
+        "weight": "53.3",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "C1 synthon": {
+        "value": "methylamine",
+        "weight": "1.3",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "base": {
+        "value": "triethylamine",
+        "weight": "1.3",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "reagent": {
+        "value": "tosyl hydrazine",
+        "weight": "1.6",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "quench / next": {
+        "value": "water",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "4-cyclopropyl-1-methyl-1H-1,2,3-triazole",
+        "moleculeProperties": "/data/molecule/profile/8a1f64dfe881698739589ef44b560ea3",
+        "allRelatedReactions": "/data/reaction/molecule/8a1f64dfe881698739589ef44b560ea3/start/0"
+      }
+    },
+    {
+      "reactionID": "1897522\nVerified\n",
+      "reactionSource": "US20230113202A1 ",
+      "reactionLocation": "ipa230413-3629.xml p-1517 ",
+      "reactionTemperature": " 25 => 75  ",
+      "reactionTimeMin": "1140",
+      "reactionYieldInPercentage": "5",
+      "SMILE": "COC(C=O)OC.CC=1C=C(C=NC1C=1N=NN(C1)CC1OCCCC1)C#CCN>CO[H].C(C)(=O)O.CC1=CC=C(C=C1)S(=O)(=O)NN>N1(N=NC=C1)CC#CC=1C=C(C(=NC1)C=1N=NN(C1)CC1OCCCC1)C",
+      "reactant": {
+        "value": "2,2-dimethoxyacetaldehyde",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/aa31172ffc2589428e3ab29c6c0cf26a",
+        "allRelatedReactions": "/data/reaction/molecule/aa31172ffc2589428e3ab29c6c0cf26a/start/0"
+      },
+      "reactant 2": {
+        "value": "3-(5-methyl-6-(1-((tetrahydro-2H-pyran-2-yl)methyl)-1H-1,2,3-triazol-4-yl)pyridin-3-yl)prop-2-yn-1-amine",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/812589fa10181d3035ee6e28355f4f54",
+        "allRelatedReactions": "/data/reaction/molecule/812589fa10181d3035ee6e28355f4f54/start/0"
+      },
+      "solvent": {
+        "value": "methanol",
+        "weight": "96.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "acid": {
+        "value": "acetic acid",
+        "weight": "0.9",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "reagent": {
+        "value": "tosyl hydrazine",
+        "weight": "0.9",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "5-(3-(1H-1,2,3-triazol-1-yl)prop-1-yn-1-yl)-3-methyl-2-(1-((tetrahydro-2H-pyran-2-yl)methyl)-1H-1,2,3-triazol-4-yl)pyridine",
+        "weight": "0.4",
+        "moleculeProperties": "/data/molecule/profile/37f462c8d89eca2d02a312af53681cf3",
+        "allRelatedReactions": "/data/reaction/molecule/37f462c8d89eca2d02a312af53681cf3/start/0"
+      }
+    },
+    {
+      "reactionID": "1912339\nVerified\n",
+      "reactionSource": "US20230136194A1 ",
+      "reactionLocation": "ipa230504-3891.xml p-0807 ",
+      "reactionTemperature": " 0 => 100  ",
+      "reactionTimeMin": "540",
+      "reactionYieldInPercentage": "40",
+      "SMILE": "C1COCCN1.N1=C(C=CC=C1)C=O>O.CO[H].CC1=CC=C(C=C1)S(=O)(=O)NN>N1=NC=C2N1C=CC=C2",
+      "reactant": {
+        "value": "morpholine",
+        "weight": "18.5",
+        "moleculeProperties": "/data/molecule/profile/775eb70c6816b842f1dd54d9d8e3b196",
+        "allRelatedReactions": "/data/reaction/molecule/775eb70c6816b842f1dd54d9d8e3b196/start/0"
+      },
+      "solvent": {
+        "value": "methanol",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "building block": {
+        "value": "2-pyridinecarboxaldehyde",
+        "weight": "1.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "reagent": {
+        "value": "tosyl hydrazine",
+        "weight": "1.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "quench / next": {
+        "value": "water",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "[1,2,3]triazolo[1,5-a]pyridine",
+        "moleculeProperties": "/data/molecule/profile/eda1b2c8738105fa6c96939845b1014d",
+        "allRelatedReactions": "/data/reaction/molecule/eda1b2c8738105fa6c96939845b1014d/start/0"
+      }
+    },
+    {
+      "reactionID": "2017512\nVerified\n",
+      "reactionSource": "US20170349574A1 ",
+      "reactionLocation": "ipa171207-2111.xml p-0297 ",
+      "reactionTemperature": " -20 => 0  ",
+      "reactionTimeMin": "2130",
+      "reactionYieldInPercentage": "60",
+      "SMILE": "CC1(OC(=O)CC(=O)O1)C.C1(=CC=C(C=C1)C[C@H](C(=O)O)NC(=O)OC(C)(C)C)C1=CC=CC=C1>C1(=CC=NC=C1)N(C)C.ClCCl.Cl.CCN=C=NCCCN(C)C>C(C1=CC=CC=C1)(C1=CC=CC=C1)(C1=CC=CC=C1)N1N=NC(=C1)C(=O)O",
+      "reactant": {
+        "value": "(R)-3-biphenyl-4-yl-2-t-butoxycarbonylamino-propionic acid",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/925be2058c857691f57f4b92097b6639",
+        "allRelatedReactions": "/data/reaction/molecule/925be2058c857691f57f4b92097b6639/start/0"
+      },
+      "solvent": {
+        "value": "dichloromethane",
+        "weight": "52.2",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "acid": {
+        "value": "hydrogen chloride",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "atmosphere": {
+        "value": "Dinitrogen",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "coupling reagent": {
+        "value": "1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "building block": {
+        "value": "2,2-dimethyl-1,3-dioxane-4,6-dione",
+        "weight": "1.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "catalyst": {
+        "value": "4-dimethylaminopyridine",
+        "weight": "2.8",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "1-Trityl-1H-1,2,3-triazole-4-carboxylic Acid",
+        "weight": "0.6",
+        "moleculeProperties": "/data/molecule/profile/2acc06596efc6475841d22b53fbb1cca",
+        "allRelatedReactions": "/data/reaction/molecule/2acc06596efc6475841d22b53fbb1cca/start/0"
+      }
+    },
+    {
+      "reactionID": "2017542\nVerified\n",
+      "reactionSource": "US20170349574A1 ",
+      "reactionLocation": "ipa171207-2111.xml p-0519 ",
+      "reactionTemperature": " 20  ",
+      "reactionTimeMin": "25",
+      "reactionYieldInPercentage": "not reported",
+      "SMILE": "OC1=NOC(=C1)C(=O)O.C(C)OC([C@](C[C@@H](CC1=CC=C(C=C1)C1=C(C=CC(=C1)Cl)F)N)(C)COC)=O>N(C)(C)C=O.C(C)(C)N(C(C)C)CC.F[P-](F)(F)(F)(F)F.N1(N=NC2=C1N=CC=C2)OC(=[N+](C)C)N(C)C>C(C1=CC=CC=C1)(C1=CC=CC=C1)(C1=CC=CC=C1)N1N=NC(=C1)C(=O)O",
+      "reactant": {
+        "value": "3-hydroxy-isoxazole-5-carboxylic acid",
+        "moleculeProperties": "/data/molecule/profile/1ef09df32fc798a27a5ed0b4d102042b",
+        "allRelatedReactions": "/data/reaction/molecule/1ef09df32fc798a27a5ed0b4d102042b/start/0"
+      },
+      "reactant 2": {
+        "value": "(2S,4R)-4-amino-5-(5′-chloro-2′-fluorobiphenyl-4-yl)-2-methoxymethyl-2-methylpentanoic acid ethyl ester",
+        "moleculeProperties": "/data/molecule/profile/04acbd7d4f12b19b703e78e7edd3806d",
+        "allRelatedReactions": "/data/reaction/molecule/04acbd7d4f12b19b703e78e7edd3806d/start/0"
+      },
+      "solvent": {
+        "value": "dimethylformamide",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "non-nucleophilic base": {
+        "value": "N,N-diisopropylethylamine",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "coupling reagent": {
+        "value": "O-(7-azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "1-Trityl-1H-1,2,3-triazole-4-carboxylic Acid",
+        "moleculeProperties": "/data/molecule/profile/2acc06596efc6475841d22b53fbb1cca",
+        "allRelatedReactions": "/data/reaction/molecule/2acc06596efc6475841d22b53fbb1cca/start/0"
+      }
+    },
+    {
+      "reactionID": "2020440\nVerified\n",
+      "reactionSource": "US20170355695A1 ",
+      "reactionLocation": "ipa171214-1672.xml p-0572 ",
+      "reactionTemperature": " 25  ",
+      "reactionTimeMin": "960",
+      "reactionYieldInPercentage": "54",
+      "SMILE": "C1(CC1)N.C(C)OC(C(C=O)=[N+]=[N-])=O>CCO[H].C([O-])([O-])=O.[Na+].[Na+].C(C)(=O)O>C1(CC1)N1N=NC(=C1)C(=O)OCC",
+      "reactant": {
+        "value": "2-diazo-3-oxo-propionic acid ethyl ester",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/071b232944a0572f29c883dd21da531f",
+        "allRelatedReactions": "/data/reaction/molecule/071b232944a0572f29c883dd21da531f/start/0"
+      },
+      "solvent": {
+        "value": "ethanol",
+        "weight": "9.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "base": {
+        "value": "sodium carbonatein  water",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "acid": {
+        "value": "acetic acid",
+        "weight": "2.5",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "building block": {
+        "value": "cyclopropylamine",
+        "weight": "1.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "ethyl 1-cyclopropyl-1H-1,2,3-triazole-4-carboxylate",
+        "weight": "0.5",
+        "moleculeProperties": "/data/molecule/profile/c9af0159bc2d8944fc0364643774a247",
+        "allRelatedReactions": "/data/reaction/molecule/c9af0159bc2d8944fc0364643774a247/start/0"
+      }
+    },
+    {
+      "reactionID": "2138818\nVerified\n",
+      "reactionSource": "US20200031764A1 ",
+      "reactionLocation": "ipa200130-2366.xml p-0270 ",
+      "reactionTemperature": " 25  ",
+      "reactionTimeMin": "960",
+      "reactionYieldInPercentage": "45",
+      "SMILE": "COC(=O)C=1SC(=CC1)N.CC(C)(CC(C)(C)C)C1=CC=C(O/C=C/C(=O)O)C=C1>N(C)(C)C=O.C(C)(C)N(C(C)C)CC.F[P-](F)(F)(F)(F)F.N1(N=NC2=C1N=CC=C2)OC(=[N+](C)C)N(C)C>CC(C)(CC(C)(C)C)C1=CC=C(O/C=C/C(=O)ON2N=NC=3C2=NC=CC3)C=C1",
+      "reactant": {
+        "value": "5-amino-thiophene-2-carboxylic acid methylester",
+        "moleculeProperties": "/data/molecule/profile/3a8d33300d76f1e7f0a86ad703d7233a",
+        "allRelatedReactions": "/data/reaction/molecule/3a8d33300d76f1e7f0a86ad703d7233a/start/0"
+      },
+      "reactant 2": {
+        "value": "(E)-3-(4-(2,4,4-trimethylpentan-2-yl)phenoxy)acrylic acid",
+        "moleculeProperties": "/data/molecule/profile/796ea094b4cc217f7fec86f716866a56",
+        "allRelatedReactions": "/data/reaction/molecule/796ea094b4cc217f7fec86f716866a56/start/0"
+      },
+      "solvent": {
+        "value": "dimethylformamide",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "non-nucleophilic base": {
+        "value": "N,N-diisopropylethylamine",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "coupling reagent": {
+        "value": "O-(7-azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "(E)-3H-[1,2,3]triazolo[4,5-b]pyridin-3-yl 3-(4-(2,4,4-trimethylpentan-2-yl)phenoxy)acrylate",
+        "moleculeProperties": "/data/molecule/profile/7533a4ee3d8cf9acb2eaf4ea4d1a8cca",
+        "allRelatedReactions": "/data/reaction/molecule/7533a4ee3d8cf9acb2eaf4ea4d1a8cca/start/0"
+      }
+    },
+    {
+      "reactionID": "2189935\nVerified\n",
+      "reactionSource": "US20190016726A1 ",
+      "reactionLocation": "ipa190117-2087.xml p-1854 [chatgpt-3.5] ",
+      "reactionTemperature": " 95  ",
+      "reactionTimeMin": "180",
+      "reactionYieldInPercentage": "78",
+      "SMILE": "C1COCCN1.C(C1=CC=CC=C1)OC=1C(=NC=CC1)C=O>CO[H].ClCCl.CC1=CC=C(C=C1)S(=O)(=O)NN>C(C1=CC=CC=C1)OC=1C=2N(C=CC1)N=NC2",
+      "reactant": {
+        "value": "3-(benzyloxy)picolinaldehyde",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/ae753d92e5aa1614f0c5a0ae95fea53e",
+        "allRelatedReactions": "/data/reaction/molecule/ae753d92e5aa1614f0c5a0ae95fea53e/start/0"
+      },
+      "solvent": {
+        "value": "methanol",
+        "weight": "28.2",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "solvent 2": {
+        "value": "dichloromethane",
+        "weight": "17.9",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "building block": {
+        "value": "morpholine",
+        "weight": "6.6",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "reagent": {
+        "value": "tosyl hydrazine",
+        "weight": "1.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "4-(benzyloxy)-[1,2,3]triazolo[1,5-a]pyridine",
+        "weight": "0.8",
+        "moleculeProperties": "/data/molecule/profile/c767b856edaa2b36f896b793364b543e",
+        "allRelatedReactions": "/data/reaction/molecule/c767b856edaa2b36f896b793364b543e/start/0"
+      }
+    },
+    {
+      "reactionID": "2229533\nVerified\n",
+      "reactionSource": "US20190225638A1 ",
+      "reactionLocation": "ipa190725-2346.xml p-0430 [chatgpt-3.5] ",
+      "reactionTemperature": " 50  ",
+      "reactionTimeMin": "1200",
+      "reactionYieldInPercentage": "62",
+      "SMILE": "C(C)(=S)N.C(C)(=O)O[C@H]1[C@@H](SC=2C=NC=C(C2)Br)O[C@@H]([C@@H]([C@@H]1N1N=NC(=C1)C(CBr)=O)OC(C)=O)COC(C)=O>C(C)(=O)OCC.[O-]S(=O)(=O)C(F)(F)F.[Ag+]>C(C)(=O)O[C@H]1[C@@H](SC=2C=NC=C(C2)Br)O[C@@H]([C@@H]([C@@H]1N1N=NC(=C1)C=1N=C(SC1)C)OC(C)=O)COC(C)=O",
+      "reactant": {
+        "value": "thioacetamide",
+        "weight": "3.1",
+        "moleculeProperties": "/data/molecule/profile/7103d12e86f7d97827c3f43f7956f26b",
+        "allRelatedReactions": "/data/reaction/molecule/7103d12e86f7d97827c3f43f7956f26b/start/0"
+      },
+      "reactant 2": {
+        "value": "5-Bromopyridin-3-yl 2,4,6-tri-O-acetyl-3-deoxy-3-[4-(2-bromoacetyl)-1H-1,2,3-triazol-1-yl]-1-thio-α-D-galactopyranoside",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/5d209e5d2038cee36ac1cb5be2228eb3",
+        "allRelatedReactions": "/data/reaction/molecule/5d209e5d2038cee36ac1cb5be2228eb3/start/0"
+      },
+      "solvent": {
+        "value": "ethyl acetate",
+        "weight": "657",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "catalyst": {
+        "value": "silver triflate",
+        "weight": "2.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "5-Bromopyridin-3-yl 2,4,6-tri-O-acetyl-3-deoxy-3-[4-(2-methyl-4-thiazolyl)-1H-1,2,3-triazol-1-yl]-1-thio-α-D-galactopyranoside",
+        "weight": "0.6",
+        "moleculeProperties": "/data/molecule/profile/ee657472c297bdb20aeab837753f9b0b",
+        "allRelatedReactions": "/data/reaction/molecule/ee657472c297bdb20aeab837753f9b0b/start/0"
+      }
+    },
+    {
+      "reactionID": "2239193\nVerified\n",
+      "reactionSource": "US20190276442A1 ",
+      "reactionLocation": "ipa190912-2274.xml p-0296 [chatgpt-3.5] ",
+      "reactionTemperature": " -20 => -5  ",
+      "reactionTimeMin": "960",
+      "reactionYieldInPercentage": "61",
+      "SMILE": "CC1(OC(=O)CC(=O)O1)C.C1(=CC=C(C=C1)C[C@H](C(=O)O)NC(=O)OC(C)(C)C)C1=CC=CC=C1>C1(=CC=NC=C1)N(C)C.ClCCl.Cl.CN(CCCN=C=NCC)C>C(C1=CC=CC=C1)(C1=CC=CC=C1)(C1=CC=CC=C1)N1N=NC(=C1)C(=O)O",
+      "reactant": {
+        "value": "(R)-3-biphenyl-4-yl-2-t-butoxycarbonylamino-propionic acid",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/925be2058c857691f57f4b92097b6639",
+        "allRelatedReactions": "/data/reaction/molecule/925be2058c857691f57f4b92097b6639/start/0"
+      },
+      "solvent": {
+        "value": "dichloromethane",
+        "weight": "53.5",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "coupling reagent": {
+        "value": "1-(3-dimethylaminopropyl)-3-ethylcarbodiimide hydrochloride",
+        "weight": "1.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "building block": {
+        "value": "2,2-dimethyl-1,3-dioxane-4,6-dione",
+        "weight": "1.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "catalyst": {
+        "value": "4-dimethylaminopyridine",
+        "weight": "2.9",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "1-Trityl-1H-1,2,3-triazole-4-carboxylic Acid",
+        "weight": "0.6",
+        "moleculeProperties": "/data/molecule/profile/2acc06596efc6475841d22b53fbb1cca",
+        "allRelatedReactions": "/data/reaction/molecule/2acc06596efc6475841d22b53fbb1cca/start/0"
+      }
+    },
+    {
+      "reactionID": "2249573\nVerified\n",
+      "reactionSource": "US20190322660A1 ",
+      "reactionLocation": "ipa191024-2163.xml p-0577 [chatgpt-3.5] ",
+      "reactionTemperature": " 20  ",
+      "reactionTimeMin": "960",
+      "reactionYieldInPercentage": "54",
+      "SMILE": "C1(CC1)N.C(C)OC(C(C=O)=[N+]=[N-])=O>CCO[H].C(C)(=O)O>C1(CC1)N1N=NC(=C1)C(=O)OCC",
+      "reactant": {
+        "value": "2-diazo-3-oxo-propionic acid ethyl ester",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/071b232944a0572f29c883dd21da531f",
+        "allRelatedReactions": "/data/reaction/molecule/071b232944a0572f29c883dd21da531f/start/0"
+      },
+      "solvent": {
+        "value": "ethanol",
+        "weight": "9.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "acid": {
+        "value": "acetic acid",
+        "weight": "2.5",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "building block": {
+        "value": "cyclopropylamine",
+        "weight": "1.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "ethyl 1-cyclopropyl-1H-1,2,3-triazole-4-carboxylate",
+        "weight": "0.5",
+        "moleculeProperties": "/data/molecule/profile/c9af0159bc2d8944fc0364643774a247",
+        "allRelatedReactions": "/data/reaction/molecule/c9af0159bc2d8944fc0364643774a247/start/0"
+      }
+    },
+    {
+      "reactionID": "2300046\nVerified\n",
+      "reactionSource": "US20240208927A1 PCT/US17/20224 ",
+      "reactionLocation": "ipa240627-2682.xml p-0193 ",
+      "reactionTemperature": " 0 => 80  ",
+      "reactionTimeMin": "1020",
+      "reactionYieldInPercentage": "46",
+      "SMILE": "C(CC(=O)C)(=O)OCC.NC1=CC=C(C=C1)C>O.CCO[H].Cl.N(=O)[O-].[Na+].[N-]=[N+]=[N-].[Na+].CC[O-].[Na+]>CC1=C(N=NN1C1=CC=C(C=C1)C)C(=O)O",
+      "reactant": {
+        "value": "p-toluidine",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/829782c8d589e2d1e4ecb1b79467be0f",
+        "allRelatedReactions": "/data/reaction/molecule/829782c8d589e2d1e4ecb1b79467be0f/start/0"
+      },
+      "solvent": {
+        "value": "water",
+        "weight": "16.6",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "solvent 2": {
+        "value": "ethanol",
+        "weight": "103",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "building block": {
+        "value": "Ethyl acetoacetate",
+        "weight": "1.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "reagent": {
+        "value": "Sodium nitrite",
+        "weight": "1.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "reagent 2": {
+        "value": "sodium azide",
+        "weight": "1.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "base": {
+        "value": "sodium ethoxide",
+        "weight": "1.5",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "quench / next": {
+        "value": "hydrogen chloridein  water",
+        "weight": "11.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "5-methyl-1-(p-tolyl)-1H-1,2,3-triazole-4-carboxylic acid",
+        "weight": "0.5",
+        "moleculeProperties": "/data/molecule/profile/cfd85d9c6c424011af8e07541ca74378",
+        "allRelatedReactions": "/data/reaction/molecule/cfd85d9c6c424011af8e07541ca74378/start/0"
+      }
+    },
+    {
+      "reactionID": "2301501\nVerified\n",
+      "reactionSource": "US20240199647A1 ",
+      "reactionLocation": "ipa240620-2986.xml p-0885 ",
+      "reactionTemperature": " 140  ",
+      "reactionTimeMin": "45",
+      "reactionYieldInPercentage": "64",
+      "SMILE": "COC(C(C)=O)(C)OC.N[C@H](C(=O)OC)CC1CC1>CO[H].CCN(CC)CC.CC1=CC=C(C=C1)S(=O)(=O)NN>C1(CC1)CC(C(=O)OC)N1N=NC(=C1C)C",
+      "reactant": {
+        "value": "3,3-dimethoxy-2-butanone",
+        "weight": "2.2",
+        "moleculeProperties": "/data/molecule/profile/abc4899c736f04efc04c430a765c36e1",
+        "allRelatedReactions": "/data/reaction/molecule/abc4899c736f04efc04c430a765c36e1/start/0"
+      },
+      "reactant 2": {
+        "value": "methyl (S)-2-amino-3-cyclopropylpropanoate",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/4fb4a0a18c896b0ae1db96d18a179513",
+        "allRelatedReactions": "/data/reaction/molecule/4fb4a0a18c896b0ae1db96d18a179513/start/0"
+      },
+      "solvent": {
+        "value": "methanol",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "base": {
+        "value": "triethylamine",
+        "weight": "1.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "reagent": {
+        "value": "tosyl hydrazine",
+        "weight": "1.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "methyl 3-cyclopropyl-2-(4,5-dimethyl-1H-1,2,3-triazol-1-yl)propanoate",
+        "weight": "0.6",
+        "moleculeProperties": "/data/molecule/profile/ffdd582bc7edcbb12f677e92c3f20b3c",
+        "allRelatedReactions": "/data/reaction/molecule/ffdd582bc7edcbb12f677e92c3f20b3c/start/0"
+      }
+    },
+    {
+      "reactionID": "2361754\nVerified\n",
+      "reactionSource": "US20210188871A1 ",
+      "reactionLocation": "ipa210624-3101.xml p-0312 ",
+      "reactionTemperature": " 20  ",
+      "reactionTimeMin": "200",
+      "reactionYieldInPercentage": "82",
+      "SMILE": "ClC(=O)OCC1=CC=CC=C1.FC1=CC2=C(OC[C@@H]3N2C(O[C@H]3CNC(=O)C3=NC=CN=C3)=O)C=C1N1CCSCC1>O.C1CCCO1.CCO[H].[HH].[Al].[Ni].C(O)([O-])=O.[Na+]>N1(N=NC=C1)C[C@@H]1OC(N2C3=C(OC[C@H]21)C=C(C(=C3)F)N3CCSCC3)=O",
+      "reactant": {
+        "value": "N-(((3S,3aS)-8-Fluoro-1-oxo-7-thiomorpholino-3a,4-dihydro-1H,3H-benzo[b]oxazolo[3,4-d][1,4]oxazin-3-yl)methyl)pyrazine-2-carboxamide",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/401c4718b077f0908a2ca489c7c482d2",
+        "allRelatedReactions": "/data/reaction/molecule/401c4718b077f0908a2ca489c7c482d2/start/0"
+      },
+      "solvent": {
+        "value": "water",
+        "weight": "78.5",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "solvent 2": {
+        "value": "tetrahydrofuran",
+        "weight": "52.5",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "solvent 3": {
+        "value": "ethanol",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "reducing agent": {
+        "value": "dihydrogen",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "protective group reagent": {
+        "value": "Benzyl chloroformate",
+        "weight": "1.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "atmosphere": {
+        "value": "argon",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "base": {
+        "value": "sodium hydrogen carbonatein  water",
+        "weight": "2.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "catalyst": {
+        "value": "Raney nickel",
+        "weight": "0.8",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "(3S,3aS)-3-((1H-1,2,3-Triazol-1-yl)methyl)-8-fluoro-7-thiomorpholino-3a,4-dihydro-1H,3H-benzo[b]oxazolo[3,4-d][1,4]oxazin-1-one",
+        "weight": "0.8",
+        "moleculeProperties": "/data/molecule/profile/0516bfb26e5ac59491a3a18b9f800692",
+        "allRelatedReactions": "/data/reaction/molecule/0516bfb26e5ac59491a3a18b9f800692/start/0"
+      }
+    },
+    {
+      "reactionID": "2454785\nVerified\n",
+      "reactionSource": "US20220259212A1 ",
+      "reactionLocation": "ipa220818-2579.xml p-0343 ",
+      "reactionTemperature": " 25 => 80  ",
+      "reactionTimeMin": "960",
+      "reactionYieldInPercentage": "not reported",
+      "SMILE": "COC1=CC=C(N)C=C1.[N+](=[N-])=C(C(=O)OCC)C(CC)=O>N(C)(C)C=O.[Ti](Cl)(Cl)(Cl)Cl>C(C)C1=C(N=NN1C1=CC=C(C=C1)OC)C(=O)OCC",
+      "reactant": {
+        "value": "Ethyl 2-diazo-3-oxopentanoate",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/732f33fee3e8130109773baa72d23b5c",
+        "allRelatedReactions": "/data/reaction/molecule/732f33fee3e8130109773baa72d23b5c/start/0"
+      },
+      "solvent": {
+        "value": "dimethylformamide",
+        "weight": "28.2",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "Lewis acid": {
+        "value": "titanium tetrachloridein  toluene",
+        "weight": "1.0",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "building block": {
+        "value": "p-methoxyaniline",
+        "weight": "1.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "ethyl 5-ethyl-1-(4-methoxyphenyl)-1H-1,2,3-triazole-4-carboxylate",
+        "moleculeProperties": "/data/molecule/profile/6bed7b3ec50da6218dd3105ff936c633",
+        "allRelatedReactions": "/data/reaction/molecule/6bed7b3ec50da6218dd3105ff936c633/start/0"
+      }
+    },
+    {
+      "reactionID": "2464173\nVerified\n",
+      "reactionSource": "US20220306635A1 PCT/CN2016/111730 ",
+      "reactionLocation": "ipa220929-2519.xml p-3002 ",
+      "reactionTemperature": " 25 => 95  ",
+      "reactionTimeMin": "210",
+      "reactionYieldInPercentage": "78",
+      "SMILE": "C1COCCN1.C(C1=CC=CC=C1)OC=1C(=NC=CC1)C=O>CO[H].ClCCl.CC1=CC=C(C=C1)S(=O)(=O)NN>C(C1=CC=CC=C1)OC=1C=2N(C=CC1)N=NC2",
+      "reactant": {
+        "value": "3-(benzyloxy)picolinaldehyde",
+        "weight": "1.0",
+        "moleculeProperties": "/data/molecule/profile/ae753d92e5aa1614f0c5a0ae95fea53e",
+        "allRelatedReactions": "/data/reaction/molecule/ae753d92e5aa1614f0c5a0ae95fea53e/start/0"
+      },
+      "solvent": {
+        "value": "methanol",
+        "weight": "28.2",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "solvent 2": {
+        "value": "dichloromethane",
+        "weight": "17.9",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "building block": {
+        "value": "morpholine",
+        "weight": "6.6",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "reagent": {
+        "value": "tosyl hydrazine",
+        "weight": "1.1",
+        "moleculeProperties": "None",
+        "allRelatedReactions": "None"
+      },
+      "product": {
+        "value": "4-(benzyloxy)-[1,2,3]triazolo[1,5-a]pyridine",
+        "weight": "0.8",
+        "moleculeProperties": "/data/molecule/profile/c767b856edaa2b36f896b793364b543e",
+        "allRelatedReactions": "/data/reaction/molecule/c767b856edaa2b36f896b793364b543e/start/0"
+      }
+    }
+  ]
+}
