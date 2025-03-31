@@ -1,4 +1,4 @@
-# Chemerta_Rag
+# Chemberta_Rag
 
 ## 🚀 Retrieval-Augmented Generation (RAG) Implementation
 
